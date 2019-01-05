@@ -1,0 +1,6 @@
+f = open("F:/test.txt", 'a+')
+print('请输入要写入的内容:')
+text = input()
+f.write(text)
+f.write('\n')
+f.close()
