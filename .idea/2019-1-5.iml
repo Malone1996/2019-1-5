@@ -5,6 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="2019-1-4" />
+    <orderEntry type="module" module-name="2019-1-7" />
   </component>
   <component name="TestRunnerService">
     <option name="projectConfiguration" value="pytest" />
